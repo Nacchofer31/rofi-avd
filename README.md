@@ -1,4 +1,4 @@
-rofiavd
+rofi-avd
 =========
 
 A small shell frontend to show and run [avd](https://developer.android.com/studio/run/managing-avds) emulators.

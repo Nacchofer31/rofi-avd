@@ -9,4 +9,5 @@ Example usage as [i3](http://i3wm.org) keybindings:
 
 Example usage as [bspwm](https://wiki.archlinux.org/index.php/Bspwm) sxhkd keybinding:
 
-    sh -c "rofiavd"
+    super + shift + i
+        sh -c "rofiavd"
